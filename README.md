@@ -1,10 +1,10 @@
 ### powershell變更環境變數(僅當下)
-```sh
+```ps1
 $Env:Path = $Env:Path.replace("C:\Program Files\nodejs\","C:\Users\howard.ye\Desktop\node\node12\")
 ```
 
 ### powershell變更環境變數(修改使用者變數)
-```sh
+```ps1
 setx PATH "C:\Users\howard.ye\AppData\Local\Microsoft\WindowsApps;C:\Users\howard.ye\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\howard.ye\AppData\Local\GitHubDesktop\bin;C:\Users\howard.ye\AppData\Local\Programs\Git\cmd;C:\Users\howard.ye\Desktop\node"
 ```
 

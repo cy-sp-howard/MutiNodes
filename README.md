@@ -15,3 +15,8 @@ setx PATH "C:\Users\howard.ye\AppData\Local\Microsoft\WindowsApps;C:\Users\howar
 ```cmd
 %*
 ```
+
+### excute
+```sh
+chmod +x n14.sh
+```

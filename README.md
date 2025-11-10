@@ -16,7 +16,7 @@ setx PATH "C:\Users\howard.ye\AppData\Local\Microsoft\WindowsApps;C:\Users\howar
 %*
 ```
 
-### excute
+### linux set executable
 ```sh
 chmod +x n14.sh
 ```
